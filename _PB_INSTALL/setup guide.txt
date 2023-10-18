@@ -1,0 +1,9 @@
+--> Full docs will soon be posted on https://alv.gg/docs
+
+-> Drag and drop the resource into your server directory.
+-> Add the item into your server via SQL or inventory (below)
+-> Add the item image into your inventory resource if you use one. 
+-> Ensure the Config is correct (add jobs, etc).
+-> Make sure the resource is started.
+
+-> Done
